@@ -22,3 +22,17 @@ I'm targeting a full-time remote AI Automation Engineer role with teams in the U
 | 11 | Graduation workflow | ⬜ |
 | 12 | Final review and Project 1 readiness | ⬜ |
 
+## Tech stack
+
+**Using now**
+- n8n, self-hosted with Docker Compose
+- Docker Desktop and WSL2
+- Git and GitHub
+- OpenRouter (LLM API)
+- Marketstack API
+
+**Learning next**
+- HTTP, REST APIs and JSON
+- Webhooks and OAuth2
+- JavaScript (n8n Code node) and Python
+- LLM prompting, structured output and tool calling
